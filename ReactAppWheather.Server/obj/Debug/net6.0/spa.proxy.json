@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\user\\source\\repos\\ReactAppWheather\\ReactAppWheather.Server\\..\\reactappwheather.client",
+"MaxTimeoutInSeconds": "120"
+}
+}

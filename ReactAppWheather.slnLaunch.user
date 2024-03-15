@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "ReactAppWheather.Server\\ReactAppWheather.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "reactappwheather.client\\reactappwheather.client.esproj",
+        "Action": "Start",
+        "DebugTarget": "localhost (Edge)"
+      }
+    ]
+  }
+]

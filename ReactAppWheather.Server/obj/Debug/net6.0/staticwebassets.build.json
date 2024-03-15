@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "/y3HK14x4RB3o2t/ryoxap9p+ydWAgxltCy1KckgwWY=",
+  "Source": "ReactAppWheather.Server",
+  "BasePath": "_content/ReactAppWheather.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\user\\source\\repos\\ReactAppWheather\\reactappwheather.client\\reactappwheather.client.esproj",
+      "Version": 2,
+      "Source": "reactappwheather.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
